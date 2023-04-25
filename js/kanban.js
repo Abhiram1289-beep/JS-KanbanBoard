@@ -39,7 +39,7 @@ save_btn.addEventListener('click',()=>{
     error.innerHTML=message;
   }
 })
-item.appendChild(button);
+item.appendChild(save_btn);
 return item;
 };
 
